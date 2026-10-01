@@ -1,0 +1,17 @@
+{
+  "features": [
+    "Monto_Total",
+    "Cantidad_Items",
+    "Hora_Dia",
+    "Es_FinDeSemana"
+  ],
+  "k": 6,
+  "nombres_cluster": {
+    "0": "Cena entre semana",
+    "1": "Almuerzo entre semana",
+    "2": "Cena fin de semana",
+    "3": "Merienda / tarde fin de semana",
+    "4": "Desayuno entre semana",
+    "5": "Merienda / tarde entre semana"
+  }
+}
